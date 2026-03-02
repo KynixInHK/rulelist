@@ -1,3 +1,6 @@
 # 山东大学
 DOMAIN-SUFFIX,sdu.edu.cn
 DOMAIN-SUFFIX,css.sdu.edu.cn
+
+# 云服务器
+IP-CIDR,70.39.181.206/32,no-resolve
