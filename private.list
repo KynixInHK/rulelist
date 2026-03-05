@@ -1,6 +1,7 @@
 # 山东大学
 DOMAIN-SUFFIX,sdu.edu.cn
 DOMAIN-SUFFIX,css.sdu.edu.cn
+DOMAIN-SUFFIX,api.hype3808.dev
 
 # 云服务器
 IP-CIDR,70.39.181.206/32,no-resolve
